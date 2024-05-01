@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Assignment01LINQ\Assignment01LINQ\bin\Debug\net6.0\Assignment01LINQ.exe
+C:\Users\hp\source\repos\Assignment01LINQ\Assignment01LINQ\bin\Debug\net6.0\Assignment01LINQ.deps.json
+C:\Users\hp\source\repos\Assignment01LINQ\Assignment01LINQ\bin\Debug\net6.0\Assignment01LINQ.runtimeconfig.json
+C:\Users\hp\source\repos\Assignment01LINQ\Assignment01LINQ\bin\Debug\net6.0\Assignment01LINQ.dll
+C:\Users\hp\source\repos\Assignment01LINQ\Assignment01LINQ\bin\Debug\net6.0\Assignment01LINQ.pdb
+C:\Users\hp\source\repos\Assignment01LINQ\Assignment01LINQ\obj\Debug\net6.0\Assignment01LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Assignment01LINQ\Assignment01LINQ\obj\Debug\net6.0\Assignment01LINQ.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Assignment01LINQ\Assignment01LINQ\obj\Debug\net6.0\Assignment01LINQ.AssemblyInfo.cs
+C:\Users\hp\source\repos\Assignment01LINQ\Assignment01LINQ\obj\Debug\net6.0\Assignment01LINQ.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Assignment01LINQ\Assignment01LINQ\obj\Debug\net6.0\Assignment01LINQ.dll
+C:\Users\hp\source\repos\Assignment01LINQ\Assignment01LINQ\obj\Debug\net6.0\refint\Assignment01LINQ.dll
+C:\Users\hp\source\repos\Assignment01LINQ\Assignment01LINQ\obj\Debug\net6.0\Assignment01LINQ.pdb
+C:\Users\hp\source\repos\Assignment01LINQ\Assignment01LINQ\obj\Debug\net6.0\Assignment01LINQ.genruntimeconfig.cache
+C:\Users\hp\source\repos\Assignment01LINQ\Assignment01LINQ\obj\Debug\net6.0\ref\Assignment01LINQ.dll
